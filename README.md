@@ -29,7 +29,7 @@ There's no dynamic data and no state beyond small UI interactions (nav toggle, t
 
 ## 🚀 Live
 
-Deployed: 
+Deployed: https://xawl1.github.io/Portfolio/
 
 ## ✍️ Author
 Created by [Antonio Kamenov](https://github.com/Xawl1) — a portfolio site built to introduce myself as a junior developer open to roles and freelance work.
