@@ -2,7 +2,7 @@
 
 A single-page portfolio site introducing me as a full-stack developer — projects, stack, and a way to get in touch. Built with HTML, CSS, and JavaScript.
 
-🌟 Highlights
+## 🌟 Highlights
 
 * ⌨️ Animated terminal hero — a looping typing effect cycles through `whoami`, `npm run coffee`, and a status line, like a live command prompt
 * 🎚️ Frontend/backend "lean meter" — a slider that animates into place on scroll, visually showing where my stack skews
